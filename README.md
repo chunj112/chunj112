@@ -1,10 +1,10 @@
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm chunj from EARTH</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=chunj112">
     <img src="https://komarev.com/ghpvc/?username=chunj112&label=Profile%20views&color=00FFFF&style=flat-square" alt="chunj112's profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
@@ -48,19 +48,19 @@
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a> -->
   <a href="https://www.facebook.com/chunj.info" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="chunj-facebook" />
+    <img src="https://e7.pngegg.com/pngimages/991/568/png-clipart-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png" alt="chunj-facebook" />
   </a>
   <!-- <a href="https://youtube.com/@trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a> -->
   <a href="https://www.linkedin.com/in/hoang-tuan-lam-238303327/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="chunj-linkedin" />
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" alt="chunj-linkedin" />
   </a>
   <a href="https://www.instagram.com/tuan.hlas/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="chunj-instagram" />
+    <img src="https://img.freepik.com/vector-cao-cap/bieu-tuong-vector-logo-instagram-logotype-mang-xa-hoi_901408-392.jpg?semt=ais_hybrid&w=740&q=80" alt="chunj-instagram" />
   </a>
   <a href="mailto:lhoangtuan112@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="chunj-email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="chunj-email" />
   </a>
 </div>
 
