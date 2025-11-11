@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhoangtuan112@gmail.com) 
 
 ## 🧠 My Focus Areas
-- FUllStack Mobile/App Development
+- FullStack Mobile/App Development
 - UI/UX Designer
 
 ## 🛠️ Languages & Tools
